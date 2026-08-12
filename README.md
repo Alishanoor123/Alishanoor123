@@ -2,7 +2,7 @@
 
 Full Stack Web Developer | Building modern web applications with Next.js, React & Node.js | Exploring AI & Mobile App Development
 
-I love turning ideas into fast, responsive, and user-friendly web applications, and building scalable full-stack solutions.
+I love turning ideas into fast, responsive, and user-friendly web applications, while building scalable full-stack solutions.
 
 ---
 
@@ -26,8 +26,13 @@ I love turning ideas into fast, responsive, and user-friendly web applications, 
 
 ### 🌟 Featured Projects
 
-- **[Ideal Naukri]:** Smart job portal connecting job seekers, employers, recruiters, and administrators with job search, application tracking, WhatsApp Quick Apply, recruiter tools, interviews, notifications, and analytics.
+- **[Personal Mentor]:** Personal mentoring platform focused on learning, guidance, and productivity, with responsive interfaces, user authentication, profile management, and Supabase-based data handling.
+
 - **[Fleetra]:** Multi-owner car rental management system for managing owners, customers, drivers, cars, rentals, availability, driver assignments, rent calculations, and cash settlements.
+
+- **[Project Board]:** Mini project management application for creating, organizing, and managing projects and tasks through a structured workflow.
+
+- **[Task Board]:** Mini task management application for creating, organizing, and tracking tasks through an interactive board-based interface.
 
 ---
 
@@ -45,7 +50,7 @@ I'm always open to collaboration, freelance opportunities, junior developer role
 ### 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,git,github,vscode,postman,figma,vercel" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,supabase,git,github,vscode,postman,figma,vercel" />
 </p>
 
 ---
