@@ -42,7 +42,7 @@ I'm always open to collaboration, freelance opportunities, junior developer role
 
 - **Email:** [alishanoor1430@gmail.com](mailto:alishanoor1430@gmail.com)
 - **GitHub:** [github.com/Alishanoor123](https://github.com/Alishanoor123)
-- **Portfolio:** Add your portfolio URL
+- **Portfolio:** [portfolio-alpha-ten-55.vercel.app](https://portfolio-alpha-ten-55.vercel.app/)
 
 
 ---
